@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+    margin:0;
+    font-family: fantasy;
+    font-size: 25px;
+    line-height: 1.6;
+}
+img{
+    display: block;
+    max-width: 100%;
+}
+.demo{
+    float:right top;
+}
+
+.logo{
+    width: 50px;
+    height: 75px;
+    float: left;;
+}
+.nav{
+    width: 150px;
+    float:left;
+}
+.nav1{
+    float:right;
+}
+.nav-li{
+    float:left;
+    padding: 20px;
+     margin: 20px;
+}
+.nav-list{
+    float: left;
+    padding: px;
+    margin:50px;
+    border: 5px inset black;
+    background-color: lawngreen;
+}
